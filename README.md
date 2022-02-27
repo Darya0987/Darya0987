@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darya0987
 - 👀 I’m interested in history, cooking, and spirital knowledge of yourself.
-- 🌱 I’m currently learning SDET.
+- 🌱 I’m currently working SDET.
 - 💞️ I’m looking to collaborate on SDET.
 - 📫 How to reach me. Just send me email to sterva87_ne@icloud.com and we can reach out, and decide where and when to meet.
 
